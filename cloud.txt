@@ -1,0 +1,3 @@
+Processor Brand -- IntelProcessor Name -- Core i3/Core i5Processor Generatio
+n -- 6th Gen / 7th GenRAM -- 4 GBRAM Type -- DDR4HDD Capacity -- 1 TBOS Arch
+itecture -- 64 bitOperating System -- Windows 10System Architecture -- 64 bi111111
